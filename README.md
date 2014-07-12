@@ -1,29 +1,23 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+This is the repository for axis2 based client for getFinAccountTransBal service of accounting2 module.
 
 ### How do I get set up? ###
 
-* Summary of set up
+* To setup this code use:
+git clone https://jayansh@bitbucket.org/jayansh/ofbizserviceclient.git
 * Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+1. Download a Eclipse IDE for Java Developer from 
+https://www.eclipse.org/downloads/
+2. Add project to eclipse using File-> Import...->General->Import Existing Project. 
+3. To run this right click on 
+src/com/expay/ofbiz/webservice/client/test/Client.java
+->Run As-> Java Application.
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* In case of any issue contact me at jayansh@jaysan.in
