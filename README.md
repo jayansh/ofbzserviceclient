@@ -8,11 +8,17 @@ This is the repository for axis2 based client for getFinAccountTransBal service 
 ### How do I get set up? ###
 
 * To setup this code use:
+
 git clone https://jayansh@bitbucket.org/jayansh/ofbizserviceclient.git
+
+
 * Configuration
+
 1. Download a Eclipse IDE for Java Developer from 
-https://www.eclipse.org/downloads/
+https://www.eclipse.org/downloads.
+
 2. Add project to eclipse using File-> Import...->General->Import Existing Project. 
+
 3. To run this right click on 
 src/com/expay/ofbiz/webservice/client/test/Client.java
 ->Run As-> Java Application.
