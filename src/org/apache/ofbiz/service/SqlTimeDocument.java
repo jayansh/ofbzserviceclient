@@ -17,7 +17,7 @@ package org.apache.ofbiz.service;
 public interface SqlTimeDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SqlTimeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("sqltime9a7cdoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SqlTimeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("sqltime9a7cdoctype");
     
     /**
      * Gets the "sql-Time" element
@@ -42,7 +42,7 @@ public interface SqlTimeDocument extends org.apache.xmlbeans.XmlObject
     public interface SqlTime extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SqlTime.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("sqltime8aa4elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SqlTime.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("sqltime8aa4elemtype");
         
         /**
          * Gets the "value" attribute

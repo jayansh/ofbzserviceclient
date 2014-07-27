@@ -17,7 +17,7 @@ package org.apache.ofbiz.service;
 public interface NullDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(NullDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("nullc761doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(NullDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("nullc761doctype");
     
     /**
      * Gets the "null" element
@@ -52,7 +52,7 @@ public interface NullDocument extends org.apache.xmlbeans.XmlObject
     public interface Null extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Null.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("null6a84elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Null.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("null6a84elemtype");
         
         /**
          * Gets the "value" attribute

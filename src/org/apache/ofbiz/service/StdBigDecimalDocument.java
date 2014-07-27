@@ -17,7 +17,7 @@ package org.apache.ofbiz.service;
 public interface StdBigDecimalDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(StdBigDecimalDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("stdbigdecimalba6ddoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(StdBigDecimalDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("stdbigdecimalba6ddoctype");
     
     /**
      * Gets the "std-BigDecimal" element
@@ -42,7 +42,7 @@ public interface StdBigDecimalDocument extends org.apache.xmlbeans.XmlObject
     public interface StdBigDecimal extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(StdBigDecimal.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("stdbigdecimal4984elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(StdBigDecimal.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("stdbigdecimal4984elemtype");
         
         /**
          * Gets the "value" attribute

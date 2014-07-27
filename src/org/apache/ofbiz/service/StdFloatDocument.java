@@ -17,7 +17,7 @@ package org.apache.ofbiz.service;
 public interface StdFloatDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(StdFloatDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("stdfloatce48doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(StdFloatDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("stdfloatce48doctype");
     
     /**
      * Gets the "std-Float" element
@@ -42,7 +42,7 @@ public interface StdFloatDocument extends org.apache.xmlbeans.XmlObject
     public interface StdFloat extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(StdFloat.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("stdfloatc28aelemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(StdFloat.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("stdfloatc28aelemtype");
         
         /**
          * Gets the "value" attribute

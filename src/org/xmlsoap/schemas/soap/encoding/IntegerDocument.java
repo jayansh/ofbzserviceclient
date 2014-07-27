@@ -17,7 +17,7 @@ package org.xmlsoap.schemas.soap.encoding;
 public interface IntegerDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(IntegerDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("integer95c2doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(IntegerDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("integer95c2doctype");
     
     /**
      * Gets the "integer" element

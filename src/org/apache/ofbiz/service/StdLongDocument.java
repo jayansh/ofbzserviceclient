@@ -17,7 +17,7 @@ package org.apache.ofbiz.service;
 public interface StdLongDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(StdLongDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("stdlongb142doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(StdLongDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("stdlongb142doctype");
     
     /**
      * Gets the "std-Long" element
@@ -42,7 +42,7 @@ public interface StdLongDocument extends org.apache.xmlbeans.XmlObject
     public interface StdLong extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(StdLong.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("stdlongb2e4elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(StdLong.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("stdlongb2e4elemtype");
         
         /**
          * Gets the "value" attribute

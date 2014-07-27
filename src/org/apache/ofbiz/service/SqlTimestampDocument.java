@@ -17,7 +17,7 @@ package org.apache.ofbiz.service;
 public interface SqlTimestampDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SqlTimestampDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("sqltimestamp30c3doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SqlTimestampDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("sqltimestamp30c3doctype");
     
     /**
      * Gets the "sql-Timestamp" element
@@ -42,7 +42,7 @@ public interface SqlTimestampDocument extends org.apache.xmlbeans.XmlObject
     public interface SqlTimestamp extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SqlTimestamp.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2D58E30B30747263FFF7BF74FCC60359").resolveHandle("sqltimestamp7900elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SqlTimestamp.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sC71C17756582B131E6BCE9FBCF1C7DBC").resolveHandle("sqltimestamp7900elemtype");
         
         /**
          * Gets the "value" attribute
